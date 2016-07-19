@@ -6,6 +6,23 @@ body{
   color:red;
 }
 
+.home:hover{
+  color:red;
+}
+
+.about:hover{
+  background-color: yellow;
+}
+
+.images:focus{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.element-three:focus{
+  
+}
+
 .element-one{
   margin: 5px;
   border-width: 3px;
